@@ -1,1 +1,1 @@
-Repositoriul NextStep va include temele de acasa incepand cu Prezentarea Nr.5 
+## Java Arrays, Exceptions, OOP concepts exercises.
